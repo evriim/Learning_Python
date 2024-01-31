@@ -4,7 +4,20 @@ This repository contains the resources I have used to learn Python. I am sharing
 
 ## Contents
 
+- **Books:**
+  - 
+  -
 
+- **Online Courses:**
+  - [CS50 2022](https://cs50.harvard.edu/python/2022/)
+  -
+
+- **Tutorials:**
+  - 
+  - 
+- **Projects:**
+  - 
+  - 
 
 
 ## How to Use
