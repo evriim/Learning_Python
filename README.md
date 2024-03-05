@@ -5,7 +5,7 @@ This repository contains the resources I have used to learn Python. I am sharing
 ## Contents
 
 - **Books:**
-  - 
+  - [Impractical Python Projects: Playful Programming Activities to Make You Smarter](https://www.amazon.com/Impractical-Python-Projects-Programming-Activities/dp/159327890X)
   -
 
 - **Online Courses:**
