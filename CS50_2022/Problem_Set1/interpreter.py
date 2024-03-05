@@ -1,4 +1,4 @@
-#Get input from user
+#Retrieving data from the user.
 x,y,z= (input("Expressions: ")).split(" ")
 
 #Converting str format to int
